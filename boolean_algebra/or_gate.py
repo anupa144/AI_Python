@@ -10,6 +10,7 @@ Following is the truth table of an AND Gate:
     |    1    |    0    |    1   |
     |    1    |    1    |    1   |
     ------------------------------
+    Allows one of two different inputs
 Refer - https://www.geeksforgeeks.org/logic-gates-in-python/
 """
 
@@ -33,3 +34,4 @@ if __name__ == "__main__":
     import doctest
 
     doctest.testmod()
+
